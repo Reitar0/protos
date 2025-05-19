@@ -1,6 +1,6 @@
 module github.com/Reitar0/protos
 
-go 1.24
+go 1.24.2
 
 require (
 	google.golang.org/grpc v1.72.1
@@ -8,7 +8,6 @@ require (
 )
 
 require (
-	github.com/golang/protobuf v1.5.4 // indirect
 	golang.org/x/net v0.40.0 // indirect
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/text v0.25.0 // indirect
